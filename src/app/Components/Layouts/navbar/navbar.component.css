@@ -1,0 +1,21 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+
+.example-container {
+  width: 100%;
+  height: auto;
+}
+
+.example-sidenav-content {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.example-sidenav {
+  position: fixed;
+  padding: 20px;
+}
